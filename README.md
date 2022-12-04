@@ -1,3 +1,2 @@
-# hola-it-s-me
-Config files for my GitHub profile.
-test
+# Introduction
+i still learn, so pls go easy on me :)
